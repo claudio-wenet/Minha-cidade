@@ -1,0 +1,42 @@
+.principal{
+    width: 1000px; height: 400 ;
+}
+
+.logo-imagem{
+    text-align: center ;
+
+}
+
+.logo-imagem img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 10px;
+    
+}
+
+.logo-imagem{
+    background-color: cadetblue;
+}
+
+.final-pagina{
+    background-color: cadetblue;
+}
+
+p {
+    padding: 10px 300px;
+}
+
+h2 {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.turismo-site{
+    text-align: center;
+}
+
+img{
+    width: 600px;
+    border-radius: 30px;
+}
